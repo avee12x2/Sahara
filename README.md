@@ -16,6 +16,7 @@ It serves as a centralized course management platform for instructors and studen
 - `Documents/` – Contains key project documentation including:
   - 📄 Software Requirements Specification
   - 📄 Software Design Document
+  - 📄 User Manual
 
 This repo is focused on **project planning, design, and documentation**.  
 For the complete source code and active development repository, see below.
